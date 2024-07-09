@@ -1,0 +1,38 @@
+body{
+ background-color: RGB(247, 202, 201);
+ text-align: center;
+ margin: auto
+}
+
+div{
+  color:darkred
+}
+
+h2{
+  color: #c22828;
+}
+
+h4{
+  color:#3090a1
+}
+
+article{
+  padding: 8px;
+  margin: 50px;
+  color: darkred
+}
+
+#articleOne{
+  font-family: monospace;
+  border: 10px groove #7bcecc;
+}
+
+#articleTwo{
+  font-family: 'Courier New';
+  border: 8px double #5c476f;
+}
+
+#articleThree{
+  font-family: Verdana;
+  border: 5px dotted #3090a1;
+}
